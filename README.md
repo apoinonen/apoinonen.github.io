@@ -1,5 +1,5 @@
-[Portfolio](apoinonen.github.io)
+[Portfolio](https://apoinonen.github.io/)
 
-[Games](apoinonen.github.io/games)
+[Games](https://apoinonen.github.io/games/)
 
-[Test Website](apoinonen.github.io/site)
+[Test Website](https://apoinonen.github.io/site/)
