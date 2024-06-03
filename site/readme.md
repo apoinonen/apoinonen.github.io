@@ -1,1 +1,2 @@
-
+Simple website template.
+Not sure yet what I am going to do with it...
