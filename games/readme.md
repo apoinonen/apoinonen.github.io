@@ -15,4 +15,4 @@ Here are some game projects that I have worked in:
 
 2024 [Slaughter Theater](https://globalgamejam.org/games/2024/slaughter-theatre-1)
 
-2026 [Added Soon](#)
+2026 [Into the Smog](https://globalgamejam.org/games/2026/smog-3)
