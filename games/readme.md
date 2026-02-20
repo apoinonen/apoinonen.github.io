@@ -19,4 +19,4 @@ Here are some game projects that I have worked in:
 
 
 ## Random Personal Projects:
-2026[Dungeon Game](https://apoinonen.github.io/games/DungeonGame/DungeonGame.html)
+2026 [Dungeon Game](https://apoinonen.github.io/games/DungeonGame/DungeonGame.html)
